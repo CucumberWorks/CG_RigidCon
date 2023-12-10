@@ -30,3 +30,15 @@ Recommended part layout.
 
 ![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7847.HEIC)
 Parts you need for this step.
+
+You need 9 heat inserts and 8 magnets for this step.
+
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7849.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7850.HEIC)
+
+Make sure you insert the magnets at the right orientation. The swivel arm component should stick to the base component even without the screw installed.
+For all 3mm through holes you may need to use a 3mm drill for clearance.
+Use a M3x25 screw and a M3 heat insert installed on the SwivelArmBase for the swivel arm.
+
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7855.HEIC)
+To intall the small Z-hinge component, apply a heat insert to the component itself, and another heat insert to the swivel arm. Use a M3x15 screw to secure it.
