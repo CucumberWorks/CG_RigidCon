@@ -23,3 +23,5 @@ CA glue used to secure the magnets. Get a CA glue curing accelerator for a bette
 
 8mm elastic bands are used to help support the assembly even during active sessions.
 
+# Instructions
+## Step1
