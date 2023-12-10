@@ -1,5 +1,7 @@
 # CG_RigidCon
-A 3D-printable controller upgrade for the contact glove
+A 3D-printable controller upgrade for the contact glove.
+
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/GA6rscxaEAA5TjX.jpeg)
 
 # Important: Before before you start
 This project started as a very personal modification using the existing button and joystick components from the contact glove by diver-x.
