@@ -26,4 +26,7 @@ CA glue used to secure the magnets. Get a CA glue curing accelerator for a bette
 # Instructions
 ## Step1
 ![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/2103165752.png)
+Recommended part layout.
 
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7847.HEIC)
+Parts you need for this step.
