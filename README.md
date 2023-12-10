@@ -1,5 +1,7 @@
 # CG_RigidCon
-A 3D-printable controller upgrade for the contact glove.
+A 3D-printable controller upgrade for the Contact Glove.
+
+The design is inspired by but functionally different from the Magnetra controller. It reuses the existing electronics from the Contact Glove 1.0 set. 
 
 ![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/GA6rscxaEAA5TjX.jpeg)
 
@@ -11,6 +13,8 @@ Model based on the CAD files kindly offered by diver-x.
 You are expected to heavily modify some of the components, although all modifications are designed to be modular and not destructive to the contact glove itself.
 
 If you are not familiar with 3D printing or working with hardware in general, some of the steps might be challenging.
+
+Using this controller will make certain gestures more difficult to perform. And I personally recommend remapping the trigger command to one of the three face buttons, and use the button next to the power switch as the system button.
 
 Overall the project is still at a quite alpha state. 
 
