@@ -45,3 +45,9 @@ To intall the small Z-hinge component, apply a heat insert to the component itse
 
 ![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7857.HEIC)
 If all the joints spin freely and the swivel arm clicks magnetically to two positions, then you are good for step2. The two small plates are labeled with arrows and a dot. The plates are for grabbing onto the elastic bands and secured in place with 6 M3x8 screws. You do not need to tighten them at this point. Refer to the STEP file for a clearer 3D view of the assembly. 
+
+## Step2
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/1077298468.png)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/224728256.png)
+Recommended part layout.
+Use 0.4mm nozzle and thick outer walls.
