@@ -58,53 +58,53 @@ If all the joints spin freely and the swivel arm clicks magnetically to two posi
 Recommended part layout.
 Use 0.4mm nozzle and thick outer walls.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7878.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7878.HEIC)
 Take the top cap, the mid frame and three button units.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7879.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7879.HEIC)
 The three buttons first go into the top cap like shown.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7880.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7880.HEIC)
 Press the mid frame into the top cap. You may need to apply some force as this is designed to be a tight fit.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7881.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7881.HEIC)
 Harvest the button and joystick components from the original casing. There should be three PCBs. Careful not to lose the screws.
 As the joystick module is in the same physical shape as the one used for the ROG Ally. You may use this chance to upgrade to a Hall effect joystick. The new joystick will have a higher stick and can be fitted with the newly designed larger joystick cap.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7882.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7883.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7885.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7882.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7883.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7885.HEIC)
 Install the modules and the button assembly you put together previously. Secure the assembly with two M2x12 self tapping screws.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7886.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7887.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7888.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7886.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7887.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7888.HEIC)
 Install the two magnets. Double check the polarities. The controller is designed to be stored in two positions, one fully folded and one rested at a temporary postion around the Z-hinge.
 Use CA glue to secure the magnets.
 
 ## Step3
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7889.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7889.HEIC)
 Due to the flipping mechanism, longer cables are required. The cable used for the button and joysticks are 4-pin and 5-pin JST 1.25mm connectors.
 *Important* Pay attenstion to the cable order. The cable needs to be in the "Same Direction" configuration as shown in the image.
 The recommended cable length is 30cm.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7890.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7890.HEIC)
 Use a cable cover to protect the cables. I find soft fabric types to be the most confortable.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7891.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7892.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7893.HEIC)
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7894.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7891.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7892.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7893.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7894.HEIC)
 Connect the cables and secure the back cap with a M2x12 self tapping screw.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7895.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7895.HEIC)
 Connect the cables to the Contact Glove main unit. You can refer to Diver-X's guides for more detail.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7896.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7896.HEIC)
 Install the assembly to the main unit with two M2x8 screws. The original screws are a bit short so you need your own.
 The assembly also prevents the tracker from flying out.
 
-![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/base/IMG_7897.HEIC)
+![alt text](https://github.com/CucumberWorks/CG_RigidCon/blob/main/img/instruction/controller/IMG_7897.HEIC)
 Use the two small caps and six screws to secure two elastic bands. You can tighten the bands while wearing it and tighten the screws all the way when you are comfortable with the length. Cut any excess elastic bands. This should prevent the asssembly from detaching from the glove.
 
 ## Finish up
